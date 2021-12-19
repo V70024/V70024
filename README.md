@@ -38,6 +38,9 @@
 #### **if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈**
 
 <a href="https://www.buymeacoffee.com/V70024" target="_blank"><img src="img/BUY-ME-A-COFFEE-EN.PNG" alt="Buy Me A Coffee" width="180" ></a>
+<a href="https://www.coffeete.ir/V70024" target="_blank"><img src="img/BUY-ME-A-COFFEE-FA.PNG" alt="یه قهوه من رو مهمون کن" width="180" ></a>
+
+
 
 <br><br><br>
 
