@@ -8,7 +8,6 @@
     <img  width="500em"   src="img/welcome-to-my-github.png" alt="vlad vlad70024 V70024 70024"/><br>
     <img  height="140em"  src="https://github-readme-stats.vercel.app/api?username=V70024&show_icons=true&theme=aura" alt="vlad vlad70024 V70024 70024"/>
     <img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=V70024&layout=compact&show_icons=true&theme=aura" alt="vlad vlad70024 V70024 70024"/><br>
-    <img  width="790em"  src="https://activity-graph.herokuapp.com/graph?username=V70024&theme=react-dark" alt="vlad vlad70024 V70024 70024"/>
 </div>
 
 
